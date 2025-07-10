@@ -1,0 +1,73 @@
+[
+    {
+        "Time": "2025-01-14T14:32:15.000Z",
+        "author": "AI",
+        "category": "Sports",
+        "content": "Wearing a pink suit and a white dupatta on her head, Laurene Powell Jobs, the American billionaire businesswoman and philanthropist offered prayers from outside the sanctum sanctorum at the Kashi Vishwanath Temple. “The visitor followed the traditions of the temple. She prayed for the successful completion of the Maha Kumbh,” said Mr. Giri, who was with Laurence Powell.",
+        "headline": "Steve Jobs’ wife Laurene Powell offers prayers at Varanasi temple ahead of Maha Kumbh Visit",
+        "id": "2",
+        "imageUrl": "https://th-i.thgim.com/public/incoming/r4suwy/article69091578.ece/alternates/FREE_1200/20250111313L.jpg",
+        "likes": 54
+    },
+    {
+        "headline": "Trump's 2nd Inauguration Moves Indoors Amid Arctic Blast",
+        "content": "Donald Trump will be sworn in as the 47th president of the United States on January 20, marking a historic comeback. Due to an Arctic blast, the swearing-in ceremony has been shifted indoors, sparking buzz on social media with humor and commentary. Chief Justice John Roberts will administer the oath at noon EST.",
+        "imageUrl": "https://www.hindustantimes.com/ht-img/img/2025/01/18/550x309/Trump_1737178971970_1737178977619.png",
+        "category": "Politics",
+        "Time": "2025-01-18T11:32:00.000Z",
+        "author": "Simran Singh",
+        "likes": 0,
+        "id": "3"
+    },
+    {
+        "Time": "2025-01-15T09:20:00.000Z",
+        "author": "John Doe",
+        "category": "Technology",
+        "content": "Apple announced the release of its next-generation VR headset, promising a revolutionary experience for users. The device is set to launch in March.",
+        "headline": "Apple announced the release of its next-generation VR headset",
+        "id": "4",
+        "imageUrl": "https://ichef.bbci.co.uk/news/480/cpsprodpb/02DA/production/_130003700_apple_vision_pro_2.jpg",
+        "likes": 120
+    },
+    {
+        "Time": "2025-01-16T13:45:00.000Z",
+        "author": "Ravi Sharma",
+        "category": "Health",
+        "content": "A new study reveals that a balanced diet rich in omega-3 fatty acids can significantly improve mental health and reduce anxiety.",
+        "headline": "Study Links Omega-3 to Reduced Anxiety",
+        "id": "5",
+        "imageUrl": "https://www.psypost.org/wp-content/uploads/2024/03/Omega-3-6-9-fish-oil-softgel.jpg",
+        "likes": 76
+    },
+    {
+        "Time": "2025-01-17T18:00:00.000Z",
+        "author": "Priya Patel",
+        "category": "Entertainment",
+        "content": "Bollywood star Alia Bhatt confirmed her role in an upcoming Hollywood blockbuster, marking her international debut.",
+        "headline": "Alia Bhatt to Star in Hollywood Blockbuster",
+        "id": "6",
+        "imageUrl": "https://liveindia.tv/wp-content/uploads/2024/04/Alia-Time-100.jpg",
+        "likes": 220
+    },
+    {
+        "Time": "2025-01-18T10:00:00.000Z",
+        "author": "Emily Carter",
+        "category": "World",
+        "content": "A rare solar eclipse mesmerized millions across Europe and Asia, with spectacular views captured in iconic locations.",
+        "headline": "Rare Solar Eclipse Wows Millions",
+        "id": "7",
+        "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2019/12/b4a2f5be7e634f31ad5ab2a4bda71372_8.jpeg",
+        "likes": 300
+    },
+    {
+        "Time": "2025-01-16T08:30:00.000Z",
+        "author": "James Lee",
+        "category": "Business",
+        "content": "Tesla shares soared 10% after the company reported record-breaking quarterly profits and announced a new factory in India.",
+        "headline": "Tesla Announces Expansion in India",
+        "id": "8",
+        "imageUrl": "https://www.manufacturingtodayindia.com/cloud/2023/11/07/1Siuoucn-Tesla-1-1200x675.jpg",
+        "likes": 95
+    }
+   
+]

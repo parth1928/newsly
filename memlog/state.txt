@@ -1,0 +1,3 @@
+Current state:
+- memlog folder created.
+- No errors found in open files: lib/services/firebase_service.dart, lib/models/news_model.dart, lib/main.dart, lib/widgets/news_card.dart

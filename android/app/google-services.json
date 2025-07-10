@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "859182671653",
+    "project_id": "newsly-personalized-news-app",
+    "storage_bucket": "newsly-personalized-news-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859182671653:android:7e4b768a4c06becbf99ccc",
+        "android_client_info": {
+          "package_name": "com.example.newsly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859182671653-9j37sf84vqeruug31j7n5mhsomsb3o4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKbBjZrBq9S_wO5iN15AU8LTwwl5EB-nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859182671653-9j37sf84vqeruug31j7n5mhsomsb3o4t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "859182671653-r9g23fv2oul4cp6eagt28k2i2fbpcoto.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newsly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
